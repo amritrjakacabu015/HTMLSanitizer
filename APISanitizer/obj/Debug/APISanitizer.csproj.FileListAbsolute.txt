@@ -1,0 +1,17 @@
+C:\Users\Amritraj\source\repos\APISanitizer\APISanitizer\bin\Debug\APISanitizer.exe.config
+C:\Users\Amritraj\source\repos\APISanitizer\APISanitizer\bin\Debug\APISanitizer.exe
+C:\Users\Amritraj\source\repos\APISanitizer\APISanitizer\bin\Debug\APISanitizer.pdb
+C:\Users\Amritraj\source\repos\APISanitizer\APISanitizer\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Amritraj\source\repos\APISanitizer\APISanitizer\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Amritraj\source\repos\APISanitizer\APISanitizer\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Amritraj\source\repos\APISanitizer\APISanitizer\obj\Debug\APISanitizer.csprojAssemblyReference.cache
+C:\Users\Amritraj\source\repos\APISanitizer\APISanitizer\obj\Debug\APISanitizer.csproj.CopyComplete
+C:\Users\Amritraj\source\repos\APISanitizer\APISanitizer\obj\Debug\APISanitizer.exe
+C:\Users\Amritraj\source\repos\APISanitizer\APISanitizer\obj\Debug\APISanitizer.pdb
+C:\Users\Amritraj\source\repos\APISanitizer\APISanitizer\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\Amritraj\source\repos\APISanitizer\APISanitizer\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\Amritraj\source\repos\APISanitizer\APISanitizer\bin\Debug\nunit.engine.dll
+C:\Users\Amritraj\source\repos\APISanitizer\APISanitizer\bin\Debug\nunit.engine.api.dll
+C:\Users\Amritraj\source\repos\APISanitizer\APISanitizer\bin\Debug\nunit.framework.dll
+C:\Users\Amritraj\source\repos\APISanitizer\APISanitizer\bin\Debug\nunit.framework.pdb
+C:\Users\Amritraj\source\repos\APISanitizer\APISanitizer\bin\Debug\nunit.framework.xml
